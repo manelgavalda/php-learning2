@@ -1,0 +1,15 @@
+{
+    "name": "manelgavalda/php-learning",
+    "description": "Projecte php learning Manel Gavaldà",
+    "type": "project",
+    "authors": [
+        {
+            "name": "manel",
+            "email": "manelgavalda@iesebre.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Manelgavalda\\myframework\\" :"src/"}
+    }
+}
